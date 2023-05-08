@@ -1,8 +1,6 @@
-- Creating a program that solves 9*9 Sudoku using BackTracking Algorithm
+## Sudoku Solver Using Backtracking Algorithm
 
 ---
-
-## Sudoku Solver Using Backtracking Algorithm
 
 The given Python code uses the Tkinter library to create a GUI application for solving Sudoku puzzles. It imports the
 solve function from the sudoku_soln module, which provides the algorithm for solving Sudoku puzzles.
@@ -20,6 +18,8 @@ update_value function updates the input fields with the solution obtained from t
 
 Overall, the code creates a functional GUI application for solving Sudoku puzzles using the Tkinter library and the
 solve function from the sudoku_soln module.
+
+---
 
 #### How to run the code
 
